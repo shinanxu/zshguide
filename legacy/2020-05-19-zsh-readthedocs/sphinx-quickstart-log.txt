@@ -1,0 +1,37 @@
+sphinx-quickstart
+
+欢迎使用 Sphinx 2.4.4 快速配置工具。
+
+请输入接下来各项设置的值（如果方括号中指定了默认值，直接
+按回车即可使用默认值）。
+
+已选择根路径：.
+
+布置用于保存 Sphinx 输出的构建目录，有两种选择。
+一是在根路径下创建“_build”目录，二是在根路径下创建“source”
+和“build”两个独立的目录。
+> 独立的源文件和构建目录（y/n） [n]: y
+
+项目名称会出现在文档的许多地方。
+> 项目名称: zshguide
+> 作者名称: goreliu
+> 项目发行版本 []: latest
+
+If the documents are to be written in a language other than English,
+you can select a language here by its language code. Sphinx will then
+translate text that it generates into that language.
+
+For a list of supported codes, see
+https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-language.
+> 项目语种 [en]: zh_CN
+
+创建文件 ./source/conf.py。
+创建文件 ./source/index.rst。
+创建文件 ./Makefile。
+创建文件 ./make.bat。
+
+完成：已创建初始目录结构。
+
+你现在可以填写主文档文件 ./source/index.rst 并创建其他文档源文件了。 用 Makefile 构建文档，像这样：
+ make builder
+此处的“builder”是支持的构建器名，比如 html、latex 或 linkcheck。
