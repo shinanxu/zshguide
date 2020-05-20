@@ -221,47 +221,31 @@ sphinx-markdown-tables==0.0.14
 
 ### 文章
 
-[1] [如何用 ReadtheDocs、Sphinx 快速搭建写书环境 - 简书 - 2016.03.28](https://www.jianshu.com/p/78e9e1b8553a)
-
+[1] [如何用 ReadtheDocs、Sphinx 快速搭建写书环境 - 简书 - 2016.03.28](https://www.jianshu.com/p/78e9e1b8553a)  
 [2] [使用 ReadtheDocs 托管文档 - 简书 - 2019.04.20](https://www.jianshu.com/p/058440ed14df)
 
 ### 项目
 
-[3] [Read the Docs documentation](https://docs.readthedocs.io/en/stable/index.html)
-
-[4] [microsoft/LightGBM/docs](https://github.com/microsoft/LightGBM/tree/master/docs)
-
+[3] [Read the Docs documentation](https://docs.readthedocs.io/en/stable/index.html)  
+[4] [microsoft/LightGBM/docs](https://github.com/microsoft/LightGBM/tree/master/docs)  
 [5] [yidao620c/python3-cookbook/source](https://github.com/yidao620c/python3-cookbook/tree/master/source)
 
 ### 问题
 
-[6] [ReadtheDocs cannot parse tables in markdown · Issue #4466 · readthedocs/readthedocs.org · GitHub](https://github.com/readthedocs/readthedocs.org/issues/4466)
-
-[7] [recommonmark/conf.py at master · readthedocs/recommonmark · GitHub](https://github.com/readthedocs/recommonmark/blob/master/docs/conf.py)
-
+[6] [ReadtheDocs cannot parse tables in markdown · Issue #4466 · readthedocs/readthedocs.org · GitHub](https://github.com/readthedocs/readthedocs.org/issues/4466)  
+[7] [recommonmark/conf.py at master · readthedocs/recommonmark · GitHub](https://github.com/readthedocs/recommonmark/blob/master/docs/conf.py)  
 [8] [Sphinx error: master file ../checkouts/latest/contents.rst not found · Issue #2569 · readthedocs/readthedocs.org · GitHub](https://github.com/readthedocs/readthedocs.org/issues/2569#issuecomment-485117471)
-
-[][Read the Docs: Documentation Simplified — Read the Docs 5.1.0 documentation]
 
 ### 补充
 
-[9] [Quick reStructuredText 语法快速入门 (en)](https://docutils.sourceforge.io/docs/user/rst/quickref.html)
-
-[10] [Sphinx 4.0.0+ documentation (en)](https://www.sphinx-doc.org/en/master/index.html) 
-
-[11] [Sphinx 使用手册（中文）](https://zh-sphinx-doc.readthedocs.io/en/latest/contents.html)
-
+[9] [Quick reStructuredText 语法快速入门 (en)](https://docutils.sourceforge.io/docs/user/rst/quickref.html)  
+[10] [Sphinx 4.0.0+ documentation (en)](https://www.sphinx-doc.org/en/master/index.html)   
+[11] [Sphinx 使用手册（中文）](https://zh-sphinx-doc.readthedocs.io/en/latest/contents.html)  
 [12] [Sphinx 1.2 documentation（中文）](http://www.pythondoc.com/sphinx/index.html#)
 
 ### 相关
 
-[13] [shinanxu/zshguide: 《Zsh开发指南》ZshGuide by goreliu](https://github.com/shinanxu/zshguide)
-
-[14] [zshguide | Read the Docs](https://readthedocs.org/projects/zshguide/)
-
+[13] [shinanxu/zshguide: 《Zsh开发指南》ZshGuide by goreliu](https://github.com/shinanxu/zshguide)  
+[14] [zshguide | Read the Docs](https://readthedocs.org/projects/zshguide/)  
 [15] [Welcome to zshguide's documentation! — ZshGuide latest 文档](https://zshguide.readthedocs.io/zh/latest/)
-
-
-
-
 
