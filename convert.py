@@ -14,8 +14,7 @@ for i in content_files:
     chapter = os.path.basename(i)
     ch_index = chapter[0:2]
     ch_name = ch_index + ' ' +re.findall(r'（第\S*篇-(\S*)）', chapter)[0]
-    ch_name = ch_name.replace('-', '').lower().replace('tcp', 'TCP')
-    print(ch_name)
+    ch_name = ch_name.replace('-', '').lower().replace('tcp', 'TCP').replace('[]', '[ ]')
     with open(i, 'r') as f:
         content = f.readlines()
         content[0] = f'## {ch_name}'
