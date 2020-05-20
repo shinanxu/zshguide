@@ -10,7 +10,7 @@ Welcome to zshguide's documentation!
    :maxdepth: 2
    :glob:
 
-   ./*
+   ./content/*
 
 
 .. Indices and tables
