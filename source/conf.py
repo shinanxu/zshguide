@@ -15,10 +15,8 @@
 # sys.path.insert(0, os.path.abspath('.'))
 import datetime
 import sphinx_rtd_theme
-# from recommonmark.parser import CommonMarkParser
-source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
-}
+import recommonmark
+
 source_suffix = ['.rst', '.md']
 
 
