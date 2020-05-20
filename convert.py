@@ -21,7 +21,8 @@ for i in content_files:
         content[0] = f'## {ch_name}'
     with open(f'{CONTENT_DIR}/ch{ch_index}.md', 'w') as f:
         f.writelines(content)
-    toctree.append(f'[{ch_name}]({CONTENT_DIR}/ch{ch_index}.md)\n\n')
+    url = f'https://zshguide.readthedocs.io/zh/latest/content/ch{ch_index}.html'
+    toctree.append(f'[{ch_name}]({url})\n\n')
 toctree.sort()
 with open(f'README.md', 'r') as f:
         readme = f.readlines()
