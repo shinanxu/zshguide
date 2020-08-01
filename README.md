@@ -4,7 +4,7 @@
 
 在线阅读地址：https://zshguide.readthedocs.io/zh/latest/
 
-此 repo 仅用于托管 [goreliu](https://github.com/goreliu) 所写的 *[zshguide《Zsh开发指南》](https://github.com/goreliu/zshguide)*，我个人微小的工作仅为将其发布到 [ReadtheDocs](https://readthedocs.org/projects/zshguide/) 网站，以提供更好的在线阅读体验。书籍版权归原作者所有。
+此 repo 仅用于托管 [陌辞墨 (goreliu)](https://github.com/goreliu) 所写的 [*zshguide*《Zsh开发指南》](https://github.com/goreliu/zshguide)，我个人微小的工作仅为将其发布到 [ReadtheDocs](https://readthedocs.org/projects/zshguide/) 网站，以提供各位开发者更好的在线阅读体验。书籍版权归原作者所有。
 
 相关文章：[如何发布一本书到 ReadtheDocs](./legacy/2020-05-19-zsh-readthedocs/Publish-Docs-to-ReadtheDocs.md)
 

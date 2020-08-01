@@ -7,7 +7,8 @@ ARCHIVE_DIR = './legacy'
 CONTENT_DIR = './source/content'
 EXCLUDING_FILE = ['./convert.py', './make.bat', './Makefile',
                   './build', './source', './LICENSE', './README.md', './legacy']
-EXCLUDING_MD_FILE = ['./legacy/README.md', './legacy/00_Zsh-开发指南（目录）.md']
+EXCLUDING_MD_FILE = ['./legacy/README.md', './legacy/00_Zsh-开发指南（目录）.md', 
+                     './legacy/2020-05-19-zsh-readthedocs']
 
 toctree = []
 content_files = list(set(glob.glob(f'{ARCHIVE_DIR}/*.md')) - set(EXCLUDING_MD_FILE))
